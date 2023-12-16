@@ -1,1 +1,4 @@
-![banner](https://github.com/typst-community/.github/assets/69181766/9f48b467-c942-4190-a487-e3a1f5f810d9)
+<p align="center">
+  <a href="https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/creating-a-default-community-health-file">Community health files</a>
+  | <a href="https://github.com/typst-community">Our profile</a>
+</p>
