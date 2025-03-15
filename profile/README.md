@@ -22,7 +22,7 @@ typst-community is an organization for a collaborative, community-driven effort 
 Everyone is welcome. Please [get involved](https://github.com/typst-community/org/blob/main/CONTRIBUTING.md)!
 
 ## 💬 Communication Channels
-Discussion related to the typst-community org mostly takes place in the [Discussion Board](https://github.com/orgs/typst-community/discussions). 
+Discussion related to the typst-community org mostly takes place in the [Discussion Board](https://github.com/orgs/typst-community/discussions) and the [official typst discord](https://discord.gg/y4Fhb6mvDa) in CONTRIBUTORS > 💬 forge > Community.
 
 You can reach the administrators at <a href="mailto:admin@typst.community">admin@typst.community</a>.
 
